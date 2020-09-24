@@ -1,5 +1,4 @@
 # block example with { }
-
 puts "\n\nusing { } curly-braces to define a code block:"
 
 3.times {|x| puts "x, the index val of the times method equals #{x}"}
